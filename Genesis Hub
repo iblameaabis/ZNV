@@ -102,5 +102,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/iblameaabis/script-cr
   end
 end)
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("https://rekonise.com/get-key-of-enchanted-hub-3p3up") 
+ setclipboard("https://discord.gg/cmJd67XbCT") 
 end)
